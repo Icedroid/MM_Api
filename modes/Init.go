@@ -6,7 +6,6 @@ import (
 	"time"
 
 	"util/logs"
-
 	"github.com/astaxie/beego/config"
 	"github.com/garyburd/redigo/redis"
 )

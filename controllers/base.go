@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strings"
 
-	"bmob/restful/models"
-	"bmob/restful/services"
+	"github.com/Icedroid/MM_Api/models"
+	"github.com/Icedroid/MM_Api/services"
 	"util/logs"
 
 	"github.com/astaxie/beego"

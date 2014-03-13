@@ -16,7 +16,6 @@ var (
 
 type M struct {
 	redis           redis.Conn
-
 	redisHashPre   string
 	redisDbIndex   int
 }
